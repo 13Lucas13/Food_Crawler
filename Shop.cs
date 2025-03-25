@@ -13,16 +13,23 @@ namespace Food_Crawler
 {
     class Shop
     {
+        
+        
+
 
         private static void Options(ref Player player)
         {
             Random rnd = new Random();
-            int cost;
+            
             int speedFood = rnd.Next(11);
+            int speedCost = rnd.Next(11,31);
             int attackFood = rnd.Next(11);
+            int attackCost = rnd.Next(11, 31);
             int damageFood = rnd.Next(11);
+            int damageCost = rnd.Next(11, 31);
             int defenseFood = rnd.Next(11);
-            Console.WriteLine($"{player.GetName()} sees {speedFood} speed food, {attackFood} attack food, {damageFood} damage food, and {defenseFood} defense food.");
+            int defenseCost = rnd.Next(11, 31);
+            Console.WriteLine($"{player.GetName()} sees {speedFood} speed food costing ${speedCost} each, {attackFood} attack food costing ${attackCost} each, {damageFood} damage food costing ${damageCost} each, and {defenseFood} defense food costing ${defenseCost} each.");
 
         }
     }
