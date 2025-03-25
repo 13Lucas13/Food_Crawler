@@ -1,0 +1,17 @@
+C:\Users\013ea\Downloads\IT-145\Food_Crawler\Food_Crawler\bin\Debug\net8.0-windows\Food_Crawler.exe
+C:\Users\013ea\Downloads\IT-145\Food_Crawler\Food_Crawler\bin\Debug\net8.0-windows\Food_Crawler.deps.json
+C:\Users\013ea\Downloads\IT-145\Food_Crawler\Food_Crawler\bin\Debug\net8.0-windows\Food_Crawler.runtimeconfig.json
+C:\Users\013ea\Downloads\IT-145\Food_Crawler\Food_Crawler\bin\Debug\net8.0-windows\Food_Crawler.dll
+C:\Users\013ea\Downloads\IT-145\Food_Crawler\Food_Crawler\bin\Debug\net8.0-windows\Food_Crawler.pdb
+C:\Users\013ea\Downloads\IT-145\Food_Crawler\Food_Crawler\obj\Debug\net8.0-windows\Food_Crawler.Form1.resources
+C:\Users\013ea\Downloads\IT-145\Food_Crawler\Food_Crawler\obj\Debug\net8.0-windows\Food_Crawler.csproj.GenerateResource.cache
+C:\Users\013ea\Downloads\IT-145\Food_Crawler\Food_Crawler\obj\Debug\net8.0-windows\Food_Crawler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\013ea\Downloads\IT-145\Food_Crawler\Food_Crawler\obj\Debug\net8.0-windows\Food_Crawler.AssemblyInfoInputs.cache
+C:\Users\013ea\Downloads\IT-145\Food_Crawler\Food_Crawler\obj\Debug\net8.0-windows\Food_Crawler.AssemblyInfo.cs
+C:\Users\013ea\Downloads\IT-145\Food_Crawler\Food_Crawler\obj\Debug\net8.0-windows\Food_Crawler.csproj.CoreCompileInputs.cache
+C:\Users\013ea\Downloads\IT-145\Food_Crawler\Food_Crawler\obj\Debug\net8.0-windows\Food_Crawler.sourcelink.json
+C:\Users\013ea\Downloads\IT-145\Food_Crawler\Food_Crawler\obj\Debug\net8.0-windows\Food_Crawler.dll
+C:\Users\013ea\Downloads\IT-145\Food_Crawler\Food_Crawler\obj\Debug\net8.0-windows\refint\Food_Crawler.dll
+C:\Users\013ea\Downloads\IT-145\Food_Crawler\Food_Crawler\obj\Debug\net8.0-windows\Food_Crawler.pdb
+C:\Users\013ea\Downloads\IT-145\Food_Crawler\Food_Crawler\obj\Debug\net8.0-windows\Food_Crawler.genruntimeconfig.cache
+C:\Users\013ea\Downloads\IT-145\Food_Crawler\Food_Crawler\obj\Debug\net8.0-windows\ref\Food_Crawler.dll
